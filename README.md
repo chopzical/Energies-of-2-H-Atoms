@@ -5,5 +5,5 @@ STEPS
 
 1. copy all the python files to the g16 root directory
 2. execute Hydrogen.py
-3. enter your desired file directory to save the final PNG (you should manually open the .png file program terminates)
+3. enter your desired file directory to save the final PNG (you should manually open the .png file after program terminates)
 4. DONE!!
